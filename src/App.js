@@ -1,5 +1,8 @@
-import FractalManifesto from "./FractalManifesto";
-
 export default function App() {
-  return <FractalManifesto />;
+  return (
+    <div style={{ padding: 40, fontFamily: "sans-serif" }}>
+      <h1>Fractal Threads of Consciousness</h1>
+      <p>The site is rendering correctly.</p>
+    </div>
+  );
 }
